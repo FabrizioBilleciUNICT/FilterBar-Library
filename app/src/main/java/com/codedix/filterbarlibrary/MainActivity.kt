@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
 
 
         val rl = findViewById<RelativeLayout>(R.id.rl_filterbar)
-        val fb = FilterBar(this, false, listOf("Aaa", "Bbb", "Ccc"), arrayListOf("Aaa"), "Filters")
+        val fb = FilterBar(this, true, listOf("Aaa", "Bbb", "Ccc"), arrayListOf("Aaa"), "Filters")
         rl.addView(fb)
 
         fb.filterUpdated = {
