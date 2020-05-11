@@ -1,8 +1,10 @@
 # FilterBar-Library
 
 ## Preview
-<img src="images/ss_isExclusive.png" width="240px" />
-<img src="images/ss_notExclusive.png" width="240px" />
+- Exclusive, single selection
+<img src="images/ss_isExclusive.png" width="300px" />
+- Not Exclusive, multiple selections
+<img src="images/ss_notExclusive.png" width="300px" />
 
 ## Gradle Dependency
 - gradle project level
