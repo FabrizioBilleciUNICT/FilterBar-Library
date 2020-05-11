@@ -1,0 +1,33 @@
+<resources>
+
+
+    <style name="FilterBar" parent="Theme.AppCompat">
+    </style>
+
+    <!-- <item name=""></item> -->
+    <style name="FilterBar.Container">
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="FilterBar.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="FilterBar.Content">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="FilterBar.ItemContainer">
+        <item name="android:layout_margin">10dp</item>
+    </style>
+
+    <style name="FilterBar.ItemText">
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:paddingStart">20dp</item>
+        <item name="android:paddingEnd">20dp</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>
