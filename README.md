@@ -1,7 +1,8 @@
 # FilterBar-Library
 
 ## Preview
-<img src="https://raw.githubusercontent.com/" width="240px" height="240px"/>
+<img src="images/ss_isExclusive.png" width="240px" />
+<img src="images/ss_notExclusive.png" width="240px" />
 
 ## Gradle Dependency
 - gradle project level
